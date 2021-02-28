@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197 15" width="197" height="15">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ec9e03 } 
+	</style>
+	<g id="section_1">
+		<path id="Rounded Rectangle 3" class="shp0" d="M7.5 0L189.5 0C193.64 0 197 3.36 197 7.5C197 11.64 193.64 15 189.5 15L7.5 15C3.36 15 0 11.64 0 7.5C0 3.36 3.36 0 7.5 0Z" />
+	</g>
+</svg>
